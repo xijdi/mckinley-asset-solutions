@@ -1,6 +1,4 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
-
-/* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 
 body {
@@ -9,7 +7,7 @@ body {
     margin: 0;
     padding: 0;
     color: #333;
-    padding-top: 80px; /* Adjust this value based on the height of your header */
+    padding-top: 80px;
 }
 
 header {
@@ -56,7 +54,7 @@ footer {
     position: relative;
 }
 
-/* Optional: ensure a smooth scroll for in-page links */
 html {
     scroll-behavior: smooth;
 }
+

@@ -1,16 +1,16 @@
 {
-  "short_name": "MAS",
+  "short_name": "McKinley",
   "name": "McKinley Asset Solutions",
   "icons": [
     {
-      "src": "mas192.png",
-      "sizes": "192x192",
-      "type": "image/png"
+      "src": "static/images/mas192.png",
+      "type": "image/png",
+      "sizes": "192x192"
     },
     {
-      "src": "mas512.png",
-      "sizes": "512x512",
-      "type": "image/png"
+      "src": "static/images/mas512.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ],
   "start_url": ".",
