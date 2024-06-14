@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './static/css/main.562dba8d.css';
+import './styles.css';
 
 function App() {
     return (
