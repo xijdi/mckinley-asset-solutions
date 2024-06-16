@@ -1,14 +1,14 @@
 {
-  "short_name": "McKinley",
+  "short_name": "McKinleyAssets",
   "name": "McKinley Asset Solutions",
   "icons": [
     {
-      "src": "static/images/mas192.png",
+      "src": "mas192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "static/images/mas512.png",
+      "src": "mas512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
